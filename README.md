@@ -1,4 +1,5 @@
-# Cloud_Craft :( ### link : https://github.com/orgs/cloud-craft-project-fullstack/repositories )
+# Cloud_Craft 
+### link https://github.com/orgs/cloud-craft-project-fullstack/repositories 
 # Web Application Deployment with Git Actions, Packer, and Terraform
 
 This repository contains the source code and deployment configurations for deploying a web application on Google Cloud Platform (GCP) using Git Actions, Packer, and Terraform.
